@@ -1,0 +1,26 @@
+C:\Users\Chequera\AppData\Local\Temporary Projects\GeneradorXML\bin\Debug\GeneradorXML.exe.config
+C:\Users\Chequera\AppData\Local\Temporary Projects\GeneradorXML\bin\Debug\GeneradorXML.exe
+C:\Users\Chequera\AppData\Local\Temporary Projects\GeneradorXML\bin\Debug\GeneradorXML.pdb
+C:\Users\Chequera\AppData\Local\Temporary Projects\GeneradorXML\bin\Debug\GeneradorXML.xml
+C:\Users\Chequera\AppData\Local\Temporary Projects\GeneradorXML\obj\Debug\GeneradorXML.Form1.resources
+C:\Users\Chequera\AppData\Local\Temporary Projects\GeneradorXML\obj\Debug\GeneradorXML.Resources.resources
+C:\Users\Chequera\AppData\Local\Temporary Projects\GeneradorXML\obj\Debug\GeneradorXML.vbproj.GenerateResource.Cache
+C:\Users\Chequera\AppData\Local\Temporary Projects\GeneradorXML\obj\Debug\GeneradorXML.exe
+C:\Users\Chequera\AppData\Local\Temporary Projects\GeneradorXML\obj\Debug\GeneradorXML.xml
+C:\Users\Chequera\AppData\Local\Temporary Projects\GeneradorXML\obj\Debug\GeneradorXML.pdb
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\bin\Debug\GeneradorXML.exe.config
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\bin\Debug\GeneradorXML.exe.manifest
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\bin\Debug\GeneradorXML.application
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\bin\Debug\GeneradorXML.exe
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\bin\Debug\GeneradorXML.pdb
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\bin\Debug\GeneradorXML.xml
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\bin\Debug\ZipForge2003.dll
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\obj\Debug\GeneradorXML.Form1.resources
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\obj\Debug\GeneradorXML.frmUsuario.resources
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\obj\Debug\GeneradorXML.Resources.resources
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\obj\Debug\GeneradorXML.vbproj.GenerateResource.Cache
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\obj\Debug\GeneradorXML.exe.manifest
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\obj\Debug\GeneradorXML.application
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\obj\Debug\GeneradorXML.exe
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\obj\Debug\GeneradorXML.xml
+C:\Users\Chequera\Documents\Visual Studio 2012\Projects\GeneradorXML\GeneradorXML\obj\Debug\GeneradorXML.pdb

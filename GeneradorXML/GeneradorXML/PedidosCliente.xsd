@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="pedidosClientes" >
+		<xsd:annotation>
+			<xsd:documentation>Estandar pedidosClientes
+			</xsd:documentation>
+		</xsd:annotation>
+			
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="pedidoCli" minOccurs="1"  maxOccurs="5000">
+					<xsd:complexType>
+						<xsd:attribute name="fechaEntrega" use="required" >
+							<xsd:annotation>
+								<xsd:documentation>Elemento requerido fecha de entrega</xsd:documentation>
+							</xsd:annotation>
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:date">
+									<xsd:pattern value="(19|20)\d{2}-\d{2}-\d{2}"/>
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+						<xsd:attribute name="claveTerminal" use="required">
+							<xsd:annotation>
+								<xsd:documentation>Elemento requerido clave de terminal numerico</xsd:documentation>
+							</xsd:annotation>
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:integer">
+									<xsd:minInclusive value="600" />
+									<xsd:maxInclusive value="1000" />
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+						<xsd:attribute name="claveDestino" use="required">
+							<xsd:annotation>
+								<xsd:documentation>Elemento requerido clave de destino numerico</xsd:documentation>
+							</xsd:annotation>
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:integer">
+									<xsd:minInclusive value="1" />
+									<xsd:maxInclusive value="99999" />
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+						<xsd:attribute name="claveProducto" use="required">
+							<xsd:annotation>
+								<xsd:documentation>Atributo requerido para expresar la clave del producto PEMEX</xsd:documentation>
+							</xsd:annotation>
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:integer">
+									<xsd:minInclusive value="1" />
+									<xsd:maxInclusive value="100000" />
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+						<xsd:attribute name="turno" use="required">
+							<xsd:annotation>
+								<xsd:documentation>Atributo requerido para expresar el turno</xsd:documentation>
+							</xsd:annotation>
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:integer">
+									<xsd:minInclusive value="1" />
+									<xsd:maxInclusive value="3" />
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+						<xsd:attribute name="claveVehiculo" use="required" >
+							<xsd:annotation>
+								<xsd:documentation>Elemento requerido clave de vehiculo</xsd:documentation>
+							</xsd:annotation>
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:string">
+									<xsd:pattern value="[A-Z|0-9][A-Z|0-9][A-Z|0-9][A-Z|0-9][A-Z|0-9][A-Z|0-9][A-Z|0-9][A-Z|0-9]|[A-Z|0-9][A-Z|0-9][A-Z|0-9][A-Z|0-9][A-Z|0-9][A-Z|0-9][A-Z|0-9]" />
+									<xsd:minLength value="7"/>
+									<xsd:maxLength value="8"/>
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>						
+						<xsd:attribute name="tipoEmbarque" type="tipoEmbarquePEMEX"  use="required">
+							<xsd:annotation>
+								<xsd:documentation>Atributo requerido tipo de embarque F=FULL S=SENCILLO</xsd:documentation>
+							</xsd:annotation>
+						</xsd:attribute>
+						<xsd:attribute name="tipoReparto" type="tipoRepartoPEMEX"  use="required">
+							<xsd:annotation>
+								<xsd:documentation>Atributo requerido tipo de reparto F=FORANEO L=LOCAL</xsd:documentation>
+							</xsd:annotation>
+						</xsd:attribute>
+						<xsd:attribute name="rfcChofer" type="t_RFC">
+							<xsd:annotation>
+								<xsd:documentation>Atributo no requerido rfc del chofer</xsd:documentation>
+							</xsd:annotation>
+						</xsd:attribute>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:simpleType name="tipoEmbarquePEMEX">
+		<xsd:annotation>
+			<xsd:documentation>Tipo definido para el tipo de embarque FULL o SENCILLO</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="1"/>
+			<xsd:enumeration value="F"/>
+			<xsd:enumeration value="S"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="tipoRepartoPEMEX">
+		<xsd:annotation>
+			<xsd:documentation>Tipo definido para el tipo de reparto FORANEO o LOCAL</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="1"/>
+			<xsd:enumeration value="F"/>
+			<xsd:enumeration value="L"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="t_RFC">
+		<xsd:annotation>
+			<xsd:documentation>Tipo definido para expresar claves del Registro Federal de Contribuyentes</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="10"/>
+			<xsd:whiteSpace value="collapse"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+</xsd:schema>
