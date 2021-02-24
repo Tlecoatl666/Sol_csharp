@@ -1,0 +1,38 @@
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Separador_PDF_Acorde.exe.config
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Separador_PDF_Acorde.exe.manifest
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Separador_PDF_Acorde.application
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Separador_PDF_Acorde.exe
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Separador_PDF_Acorde.pdb
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\itextsharp.dll
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\itextsharp.xml
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormPrincipal.resources
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_Acorde.Properties.Resources.resources
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_1.0.csproj.GenerateResource.Cache
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_Acorde.exe.manifest
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_Acorde.application
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_Acorde.exe
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_Acorde.pdb
+C:\Users\AldoTanque\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_1.0.csprojResolveAssemblyReference.cache
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_1.0.csprojAssemblyReference.cache
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormPrincipal.resources
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_Acorde.Properties.Resources.resources
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_1.0.csproj.GenerateResource.cache
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_1.0.csproj.CoreCompileInputs.cache
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_Acorde.exe
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_Acorde.pdb
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Separador_PDF_Acorde.exe.config
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Separador_PDF_Acorde.exe.manifest
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Separador_PDF_Acorde.application
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Separador_PDF_Acorde.exe
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Separador_PDF_Acorde.pdb
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\itextsharp.dll
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\itextsharp.xmlworker.dll
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\itextsharp.xml
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_Acorde.exe.manifest
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_Acorde.application
+D:\Documents\Desarrollos de LAP\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Separador_PDF_1.0.csproj.CopyComplete
