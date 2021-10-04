@@ -87,7 +87,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "FormPrincipal";
-            this.Text = "Separador de PDF  V 1.3";
+            this.Text = "Separador de PDF  V 1.4";
             this.groupBox1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox2.ResumeLayout(false);

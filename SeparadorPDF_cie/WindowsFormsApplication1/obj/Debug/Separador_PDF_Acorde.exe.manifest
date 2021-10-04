@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Separador_PDF_Acorde.exe" size="43008">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Separador_PDF_Acorde.exe" size="43520">
       <assemblyIdentity name="Separador_PDF_Acorde" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jHTlAvwfrkZEG3P6nDQRwMC+Qpyqood/4+z6VEbxxC0=</dsig:DigestValue>
+        <dsig:DigestValue>bUPsgb93C1Cej1GU9WFzqNA9B+tI7IfADqO4aAQjIkU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

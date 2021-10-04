@@ -50,9 +50,9 @@
             this.label2 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.GroupBox1 = new System.Windows.Forms.GroupBox();
+            this.ComboBanco = new System.Windows.Forms.ComboBox();
             this.labellisto = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.ComboBanco = new System.Windows.Forms.ComboBox();
             this.groupBox2.SuspendLayout();
             this.GroupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -260,6 +260,18 @@
             this.GroupBox1.TabStop = false;
             this.GroupBox1.Text = "Fichero PDF a dividir ";
             // 
+            // ComboBanco
+            // 
+            this.ComboBanco.FormattingEnabled = true;
+            this.ComboBanco.Items.AddRange(new object[] {
+            "----Seleccione----",
+            "BBVA",
+            "Banorte"});
+            this.ComboBanco.Location = new System.Drawing.Point(316, 19);
+            this.ComboBanco.Name = "ComboBanco";
+            this.ComboBanco.Size = new System.Drawing.Size(121, 21);
+            this.ComboBanco.TabIndex = 11;
+            // 
             // labellisto
             // 
             this.labellisto.AutoSize = true;
@@ -279,18 +291,6 @@
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
-            // 
-            // ComboBanco
-            // 
-            this.ComboBanco.FormattingEnabled = true;
-            this.ComboBanco.Items.AddRange(new object[] {
-            "----Seleccione----",
-            "Bancomer",
-            "Banorte"});
-            this.ComboBanco.Location = new System.Drawing.Point(316, 19);
-            this.ComboBanco.Name = "ComboBanco";
-            this.ComboBanco.Size = new System.Drawing.Size(121, 21);
-            this.ComboBanco.TabIndex = 11;
             // 
             // Form1
             // 

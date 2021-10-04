@@ -38,10 +38,12 @@ namespace WindowsFormsApplication1
             Busquedas bu = new Busquedas();
             resultado = bu.ExtractTextFromPdf(1, pdfFilePath);//Regresa el texto ya sabe de que pagina
 
-            int indexBancomer = resultado.IndexOf("GRUPO FINANCIERO BBVA BANCOMER");
+            int indexBancomer = resultado.IndexOf("BBVA Net Cash");
+            int indexOldBancomer = resultado.IndexOf("Bancomer");
             int indexBanorte = resultado.IndexOf("BANCO MERCANTIL DEL NORTE");
             int tipopdf = 0;
-            if (indexBancomer>=0)
+
+            if (indexBancomer>=0 || indexOldBancomer>=0  )
             {
                 tipopdf = 1;
             }
